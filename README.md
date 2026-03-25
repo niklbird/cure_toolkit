@@ -4,7 +4,7 @@
 
 # CURE RPKI TOOLKIT
 The **CURE RPKI toolkit** is a collection of RPKI related tooling to support offensive research into RPKI software security and deployments.
-The toolkit consists of multiple different repositories that implement different functionality for security research, including a fuzzer, an RPKI publication libarary and an ASN.1 parsing library. 
+The toolkit consists of multiple different repositories that implement different functionality for security research, including a fuzzer, an RPKI publication library and an ASN.1 parsing library. 
 
 > [!WARNING]
 > All tools are offered on a **best-effort basis**. As part of active research, tools may break unexpectedly and are **not intended for production systems**.

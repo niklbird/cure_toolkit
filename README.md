@@ -20,7 +20,7 @@ The fuzzing code is based on the CAT fuzzing tool, while auxilarily tools are ba
 | [`cure_coverage`](https://github.com/niklbird/cure_coverage) | Continuous coverage sampling library for instrumented binaries |
 | [`cure_pp`](https://github.com/niklbird/cure_pp) | RPKI publication library for creating repositories and signing objects |
 | [`cure_web`](https://github.com/niklbird/cure_web) | Graphical ASN.1 editor built on `cure_asn1` |
-| [`cure` (cat)](https://github.com/niklbird/cure) | Coverage-guided fuzzer for RPKI relying party implementations — *temporarily unavailable pending vulnerability disclosure* |
+| [`cat`](https://github.com/niklbird/cat) | Coverage-guided fuzzer for RPKI relying party implementations — *temporarily unavailable pending vulnerability disclosure* |
 
 
 ---

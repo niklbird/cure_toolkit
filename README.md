@@ -17,8 +17,8 @@ The toolkit consists of multiple different repositories that implement different
 |---|---|
 | [`cure_asn1`](https://github.com/niklbird/cure_asn1) | Fast, efficient ASN.1 parsing and encoding library, optimized for fuzzing speed |
 | [`cure_coverage`](https://github.com/niklbird/cure_coverage) | Continuous coverage sampling library for instrumented binaries |
-| [`cure_pp`](https://github.com/niklbird/cure_pp) | RPKI publication library for creating repositories and signing objects |
-| [`cure_web`](https://github.com/niklbird/cure_web) | Graphical ASN.1 editor built on `cure_asn1` - *temproarily unavailable pending vulnerability disclosure* |
+| [`cure_pp`](https://github.com/niklbird/cure_pp) | RPKI publication library for creating repositories and signing objects - *temporarily unavailable pending vulnerability disclosure* |
+| [`cure_web`](https://github.com/niklbird/cure_web) | Graphical ASN.1 editor built on `cure_asn1`  |
 | [`cat`](https://github.com/niklbird/cat) | Coverage-guided fuzzer for RPKI relying party implementations — *temporarily unavailable pending vulnerability disclosure* |
 
 
